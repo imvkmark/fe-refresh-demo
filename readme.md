@@ -1,6 +1,6 @@
 # 搭建一个可以写前端代码的无刷新框架[vue/less]
 
-github 地址: [imvkmark/skeleton-simple-fe](https://github.com/imvkmark/skeleton-simple-fe)
+github 地址: [imvkmark/tpl-refresh-fe](https://github.com/imvkmark/tpl-refresh-fe)
 
 > 在开发过程中, 现在遇到了写一些 html 的例子来测试代码, 但是在做的过程中, 使用在线的 jsbin 等工具总不如本地的代码测试跟踪起来便利, 所以就想本地搭建一个服务器可以监听本地的文件并能够实时显示在浏览器中进行测试, 主要完成 html/css 的预览以及测试
 
